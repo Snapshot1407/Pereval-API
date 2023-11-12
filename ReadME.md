@@ -27,7 +27,7 @@ Class | Method | HTTP request | Description
 1. Клонируете репозиторий
 
 ```sh
-git clone https://github.com/XanderMoroz/Pereval_DRF.git
+git clone https://github.com/Snapshot1407/Pereval-API.git
 ```
 2. Уставливаете зависимости
 
@@ -39,4 +39,4 @@ git clone https://github.com/XanderMoroz/Pereval_DRF.git
 
 ### Авторы
 
-* [Snapshot1407](https://https://github.com/XanderMoroz/) - *Все работы*
+* [Snapshot1407](https://github.com/Snapshot1407/) - *Все работы*
